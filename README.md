@@ -1,4 +1,4 @@
-#  Programming Challenge
+# Programming Challenge
 
 Congratulations on being selected to participate in our technical test. It consists of a programming challenge and it will address different skills. Read the instructions carefully and we wish you the best of luck.
 
